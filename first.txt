@@ -3,4 +3,4 @@ This is English.
 
 Check out my third file!
 
-More changes
+More changes.
